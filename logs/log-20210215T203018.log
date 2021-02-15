@@ -1,0 +1,19 @@
+20:31:04 INFO  - Start test testLogin
+20:31:04 INFO  - Start find --> By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']
+20:31:07 INFO  - By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']<-- Found
+20:31:14 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+20:31:18 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+20:31:18 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+20:31:20 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+20:31:21 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']
+20:31:32 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']<-- Found
+20:31:32 ERROR - org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-Taya.local', ip: 'fe80:0:0:0:c74:63a:2563:c314%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 6b99a2a6-c1bd-4d1e-9f66-5c079ffbcd4e
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/create_account_login_button']}
+20:31:32 INFO  - Stop test testLogin
+************************************************

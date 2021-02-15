@@ -1,0 +1,25 @@
+20:33:08 INFO  - Start test testLogin
+20:33:08 INFO  - Start find --> By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']
+20:33:10 INFO  - By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']<-- Found
+20:33:11 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+20:33:17 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+20:33:17 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+20:33:19 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+20:33:20 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']
+20:33:23 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']<-- Found
+20:33:27 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+20:33:28 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+20:33:29 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+20:33:31 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+20:33:32 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+20:33:33 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+20:33:34 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+20:33:35 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+20:33:35 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+20:33:37 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+20:33:37 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+20:33:38 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+20:33:39 INFO  - Start find --> By.id: org.wikipedia:id/login_button
+20:33:39 INFO  - By.id: org.wikipedia:id/login_button<-- Found
+20:33:40 INFO  - Stop test testLogin
+************************************************
