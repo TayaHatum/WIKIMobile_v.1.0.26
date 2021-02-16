@@ -1,0 +1,21 @@
+16:37:09 INFO  - Start test testLogOut
+16:37:09 INFO  - Start find --> By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']
+16:37:11 INFO  - By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']<-- Found
+16:37:12 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+16:37:15 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+16:37:15 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']
+16:37:16 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']<-- Found
+16:37:17 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']
+16:37:17 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']<-- Found
+16:37:17 INFO  - Start find --> By.xpath: //*[@resource-id='android:id/button2']
+16:37:30 INFO  - By.xpath: //*[@resource-id='android:id/button2']<-- Found
+16:37:30 ERROR - org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 52b6a89b-3c07-4ffc-98ce-d2ac76235f36
+*** Element info: {Using=xpath, value=//*[@resource-id='android:id/button2']}
+16:37:30 INFO  - Stop test testLogOut
+************************************************

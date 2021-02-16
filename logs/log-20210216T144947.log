@@ -1,0 +1,35 @@
+14:50:09 INFO  - Start test testLogOut
+14:50:09 INFO  - Start find --> By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']
+14:50:10 INFO  - By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']<-- Found
+14:50:10 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+14:50:14 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+14:50:14 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+14:50:16 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+14:50:16 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']
+14:50:19 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']<-- Found
+14:50:19 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+14:50:20 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+14:50:21 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+14:50:22 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+14:50:22 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+14:50:23 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+14:50:24 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+14:50:24 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+14:50:24 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+14:50:25 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+14:50:26 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+14:50:26 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+14:50:27 INFO  - Start find --> By.id: org.wikipedia:id/login_button
+14:50:28 INFO  - By.id: org.wikipedia:id/login_button<-- Found
+14:50:28 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+14:50:33 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+14:50:34 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+14:50:35 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+14:50:36 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 8b7aeecd-32d9-4707-8c2b-125864e7ba6e
+14:50:36 INFO  - Stop test testLogOut
+************************************************

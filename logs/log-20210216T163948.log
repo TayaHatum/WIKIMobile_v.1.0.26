@@ -1,0 +1,15 @@
+16:40:10 INFO  - Start test testLogOut
+16:40:10 INFO  - Start find --> By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']
+16:40:12 INFO  - By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']<-- Found
+16:40:12 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+16:40:17 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+16:40:17 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']
+16:40:18 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']<-- Found
+16:40:19 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']
+16:40:19 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_account_name']<-- Found
+16:40:19 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+16:40:19 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+16:40:19 INFO  - Start find --> By.xpath: //*[@resource-id='android:id/button2']
+16:40:21 INFO  - By.xpath: //*[@resource-id='android:id/button2']<-- Found
+16:40:21 INFO  - Stop test testLogOut
+************************************************

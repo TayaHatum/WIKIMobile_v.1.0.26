@@ -1,0 +1,8 @@
+14:58:55 INFO  - Start test testLogOut
+14:58:55 INFO  - Start find --> By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']
+14:58:57 INFO  - By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']<-- Found
+14:58:57 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+14:59:01 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+14:59:02 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+14:59:02 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+14:59:03 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']

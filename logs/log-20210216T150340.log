@@ -1,0 +1,113 @@
+15:04:01 INFO  - Start test testLogOut
+15:04:01 INFO  - Start find --> By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']
+15:04:02 INFO  - By.xpath: //*[@resource-id ='org.wikipedia:id/fragment_onboarding_skip_button']<-- Found
+15:04:03 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+15:04:06 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+15:04:06 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+15:04:08 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+15:04:08 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']
+15:04:11 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/create_account_login_button']<-- Found
+15:04:11 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+15:04:14 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+15:04:14 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+15:04:16 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+15:04:16 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText
+15:04:16 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']/android.widget.FrameLayout/android.widget.EditText<-- Found
+15:04:17 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+15:04:18 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+15:04:18 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+15:04:19 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+15:04:19 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText
+15:04:20 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']/android.widget.FrameLayout/android.widget.EditText<-- Found
+15:04:24 INFO  - Start find --> By.id: org.wikipedia:id/login_button
+15:04:24 INFO  - By.id: org.wikipedia:id/login_button<-- Found
+15:04:25 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']
+15:04:31 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/menu_icon']<-- Found
+15:04:31 INFO  - Start find --> By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']
+15:04:33 INFO  - By.xpath: //*[@resource-id='org.wikipedia:id/main_drawer_login_button']<-- Found
+15:04:34 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:35 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:36 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:37 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:37 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:38 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:39 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:39 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:40 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:41 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:41 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:42 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:42 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:43 ERROR - org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:cb5:8db7:b091:4236%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appActivity: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 1704d89a-0b44-4344-b7c6-fb319bc691c6
+15:04:43 INFO  - Stop test testLogOut
+************************************************

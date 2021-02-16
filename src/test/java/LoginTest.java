@@ -8,6 +8,7 @@ public class LoginTest extends TestBase {
     @BeforeMethod
     public void preconditions() {
         app.user().skipWizard();
+        app.user().clickOnMenuButton();
         app.user().goToLoginForm();
     }
 
@@ -17,4 +18,5 @@ public class LoginTest extends TestBase {
         app.user().clickLoginButton();
 
     }
+
 }
